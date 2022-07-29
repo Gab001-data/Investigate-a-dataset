@@ -1,0 +1,28 @@
+PROJECT SUMMARY
+
+the following conclusions were derived base analysis result from the dataset.
+
+- medical facilities should send sms communications to patients regarding their appointments.
+as patients who receive sms are more likely to show up for their appointments as seen from analysis
+
+- appointments should be fixed on weekdays rather than weekend as there is an increased
+probabilty of patients pulling a no-show for weekend appointments. though we don't have enough
+data to make decisive conclusions as to why more patients don't show up for weekend appointments
+
+- facility location can affect if a patient shows up for appointments or not. although this is
+dependent on other factors like if patients received sms from the facility or if patients that book
+appointments are hypertensive as these are two important factors that have been identified for
+patients that show up to their appointments.
+
+- more children and middle aged patients tend to show up for their appointment
+
+- more woment tend to not show up compared to their male counterpart. but we couldn't
+establish a strong correlation between gender of patients and no-show as more women than
+men also booked for an appointment.
+
+Limitations;
+
+- this analysis results may not be wholistic as we tend to establish relationship 
+between few of the variables per time.
+- also due to the numerious number of locations in the dataset only the top 10 with no-show was considered
+in our analysis of location and only the outlier location were we experienced a 100% no-show was analyzed.
